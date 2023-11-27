@@ -1,4 +1,4 @@
-# 免费看 IPTV 的方法
+# 免费看 IPTV 直播的方法
 Web Site: https://www.hicairo.com <br>
 Telegram: https://t.me/HiaiFeng <br>
 
