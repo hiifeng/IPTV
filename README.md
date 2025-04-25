@@ -2,6 +2,9 @@
 Web Site: https://www.hicairo.com <br>
 Telegram: https://t.me/HiaiFeng <br>
 
+# HiDNS 免费域名：
+[HiDNS](https://www.hidoha.net) 近日推出永久免费计划，敬请关注。[HiDNS Lifetime Free Plan](https://www.hidoha.net/news/important-update-on-hidns-free-domain-service)
+
 # 简介：
 本项目用于分享使用网络机顶盒/智能电视免费看 IPTV 的方法，网络播放器及节目源均来源与网络，如果侵权请及时联系，我会第一时间删除。
 # 使用方法：
